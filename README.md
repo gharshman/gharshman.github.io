@@ -1,5 +1,5 @@
 # Glenn R. Harshman
-[Cullman, Alabama] | [grh0003@uah.edu] | [https://www.linkedin.com/in/glenn-harshman-965888409/]
+Cullman, Alabama  |  grh0003@uah.edu  |  https://www.linkedin.com/in/glenn-harshman-965888409/
 
 ## Professional Summary
 Over 30 years experience improving operations and supply chains in various organizations using database and computer automation skills, coupled with strong focus on lean process improvement and team-building.  Looking to transition into teaching community college and/or high school.  Currently taking graduate-level classes in Computer Science, Information Systems, and Business Analytics.
