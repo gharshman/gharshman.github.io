@@ -1,4 +1,3 @@
-remote_theme: flancast90/millidocs-dark
+theme: jekyll-theme-hacker
 title: Glenn R. Harshman
 description: Bookmark this page to keep an eye on my project updates!
-
