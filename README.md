@@ -42,7 +42,7 @@ Over 30 years experience improving operations and supply chains in various organ
 * **Productivity:** Microsoft Office (Word, Excel, Access, PowerPoint), incl. VBA and Power Query
 * **Programming:** Python, R, C, C++, Java, SQL, and ARM Assembly
 * **Operating Systems:** Windows PowerShell, Debian/Ubuntu Linux, and Raspberry Pi
-* **Hardware & Networking:** Wired and wireless networking concepts and standards
+* **Hardware & Networking:** Computer upgrade & repairt, wired & wireless networking standards
 * **Visualization:** Power BI, Tableau, Probability, Statistics, Modeling & Simulation
 
 ## Graduate CS/IS/IT-Related Courses
