@@ -41,7 +41,7 @@ Over 30 years experience improving operations and supply chains in various organ
 * CompTIA Network+ Certified, Candidate ID# COMP001023022247, May 2026
 * *[In Progress]*	CompTIA Linux+ *[Expected Summer 2026]*
 
-#### Expired:
+#### Legacy:
 
 * Microsoft Certified Systems Engineer (MCSE+I)
 * Microsoft Certified Database Administrator (MCDBA)
@@ -51,11 +51,11 @@ Over 30 years experience improving operations and supply chains in various organ
 ## Technology Skills
 
 * **Programming:** Python, R, C, C++, Java, SQL, ARM Assembly
-* **Web Development:** Apache, HTML, CSS, Javascript, Typescript, PHP, PostgreSQL, MySQL
+* **Web Development:** Apache, HTML, CSS, Javascript, Typescript, PHP, Node.js, PostgreSQL, MySQL/MariaDB
 * **Productivity:** Microsoft Office, Word, Excel, Access, PowerPoint, VBA, Power Query
 * **Visualization:** Power BI, Tableau, Probability, Statistics, Modeling & Simulation
 * **Operating Systems:** Windows PowerShell, Debian/Ubuntu Linux, and Raspberry Pi
-* **Hardware & Networking:** Computer upgrade & repairt, wired & wireless networking standards
+* **Hardware & Networking:** Computer upgrade & repair, wired & wireless networking standards
 
 ## Graduate CS/IS/IT-Related Courses
 
