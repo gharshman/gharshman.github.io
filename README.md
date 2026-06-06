@@ -39,6 +39,7 @@ Over 30 years experience improving operations and supply chains in various organ
 
 * CompTIA A+ Certified, Candidate ID# COMP001023022247, April 2026
 * CompTIA Network+ Certified, Candidate ID# COMP001023022247, May 2026
+* AWS Academy Cloud Foundations Course
 * *[In Progress]*	CompTIA Linux+ *[Expected Summer 2026]*
 
 #### Legacy:
