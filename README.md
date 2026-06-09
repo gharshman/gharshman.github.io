@@ -38,8 +38,8 @@ Accomplished Supply Chain Operations Manager transitioning to a general Business
 #### Current:
 
 * AWS Cloud Practitioner, June 2026
-* CompTIA Network+, Candidate ID# COMP001023022247, May 2026
-* CompTIA A+, Candidate ID# COMP001023022247, April 2026
+* CompTIA Network+, May 2026
+* CompTIA A+, April 2026
 * *[In Progress]*	CompTIA Linux+ *[Expected July 2026]*
 
 #### Legacy:
