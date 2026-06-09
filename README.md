@@ -4,7 +4,7 @@ Cullman, Alabama  |  https://www.linkedin.com/in/glenn-harshman-965888409/
 
 ## Professional Summary
 
-Over 30 years experience improving operations and supply chains in various organizations using database and computer automation skills, coupled with strong focus on lean process improvement and team-building.  Looking to transition into teaching community college and/or high school.  Currently taking graduate-level classes in Computer Science, Information Systems, and Business Analytics.
+Accomplished Supply Chain Operations Manager transitioning to a general Business Insights/Analytics role, leveraging over 30 years of leadership in enterprise resource optimization and cross-functional stakeholder management. Proven expert at utilizing SQL for complex database queries, Python for data pipeline automation, and R for predictive modeling to transform disparate data into high-impact strategic insights. Adept at bridging the gap between technical data infrastructure and executive decision-making to drive revenue growth, mitigate corporate risk, and streamline organizational workflows.
 
 ## Veteran Status
 
@@ -39,8 +39,9 @@ Over 30 years experience improving operations and supply chains in various organ
 
 * CompTIA A+ Certified, Candidate ID# COMP001023022247, April 2026
 * CompTIA Network+ Certified, Candidate ID# COMP001023022247, May 2026
-* AWS Academy Cloud Foundations Course
-* *[In Progress]*	CompTIA Linux+ *[Expected Summer 2026]*
+* AWS Academy Graduate, Cloud Foundations, June 2026
+* AWS Certified Cloud Practitioner, June 2026
+* *[In Progress]*	CompTIA Linux+ *[Expected July 2026]*
 
 #### Legacy:
 
@@ -66,29 +67,27 @@ Over 30 years experience improving operations and supply chains in various organ
 
 * MBA 663, Information Technology and Management (3)
 * MBA 736, Managing Digital Business (3)
-* CS 521, Intensive Programming & Software Engineering (4)
-* CS 513, Intensive Computer Architecture & Operating Systems (4)
-* CS 517, Intensive Computing Theory (4)
+* CS 521, Intensive Programming, Design Patterns & Software Engineering (4)
+* CS 513, Intensive Digital Logic, Computer Architecture & Operating Systems (4)
+* CS 517, Intensive Computing Theory, Discrete Structures & Algorithms (4)
 
-#### In Progress (9 hours, Summer 2026, will be completed by August 7th):
+#### In Progress (9 hours, Summer 2026, will be completed by August 4th):
 
-* IS 560, Networking & IT Infrastructure (3)
+* IS 560, Networking & IT/Cloud Infrastructure (3)
 * CS 553, Client-Server Architectures (3)
-* CS 590, Programming Environment within UNIX (3)
+* CS 590, Unix/Linux Programming Environment (3)
 
 #### Planned (9 hours, Fall 2026, subject to change if employed full-time):
 
 * IS 640, Data Management & Data Mining (3)
-* MSC 550, Introduction to Analytics & Programming (3)
-* MSC 560, Introduction to Analytics with AWS (3)
+* MSC 550, Analytics & Programming w/ Python & R (3)
+* MSC 560, Analytics with Amazon Web Services (3)
 
 ## Professional Experience
 
-* Site Leader/Plant Manager, CRANE ChemPharma & Energy Corp., Cullman, Alabama, Jan. 2008 – Mar. 2026
-* Distribution Manager, International Filing Co., Hattiesburg, Mississippi, May 2007 – Dec. 2007
-* Senior Operations Manager, Woodgrain Millwork, Montevallo, Alabama, Sep. 2005 – May 2007
-* Director of Materials, Western Arizona Regional Medical Center, Bullhead City, Arizona, Mar. 2004 – Aug. 2005
-* Contracting Officer, U. S. Department of Veterans Affairs, Chicago, Illinois, Jun. 2003 – Mar. 2004
-* Sr. Government Contracts Manager, Digital Support Corp., Chantilly, Virginia, Oct. 1998 – Jul. 2002
-* Division Officer/Lieutenant (O-3), United States Navy, May 1993 – May 1998
-* Nuclear Field Electronics Technician (E-4), United States Navy, Orlando, Florida, May 1988 – May 1989
+* Site Leader, CRANE ChemPharma & Energy Corp., Cullman, Alabama, 2008 – 2026
+* Sr. Operations Manager, Woodgrain Distribution, Montevallo, Alabama, 2005 - 2007
+* Director of Materials Management, Community Health Systems, Bullhead City, Arizona, 2004 – 2005
+* Government Contracts Manager, Digital Support Corp., Chantilly, Virginia, 1998 – 2002
+* Division Officer/Lieutenant (O-3), USS John L. Hall & USS Yorktown, United States Navy, 1993 – 1998
+* Nuclear Field Electronics Technician (E-4), United States Navy, Orlando, Florida, 1988 – 1989
