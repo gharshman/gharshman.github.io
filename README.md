@@ -17,27 +17,12 @@ Accomplished Supply Chain Operations Manager transitioning to a general Business
 *	M.S.M., Human Resource Management, Univ. of Alabama at Huntsville, Alabama
 * *[In Progress]*	M.S., Business Analytics, Univ. of Alabama at Huntsville, Alabama *[Expected May 2028]*
 
-## Teaching Experience
-
-* Adjunct Business Faculty, Mohave Community College, Bullhead City, Arizona
-* Also delivered workforce training on OSHA safety topics and lean business practices over most of my career.
-
-## Teaching Preparation
-
-* ALSDE AIM ID: GRH-0116-8614
-* Fingerprinting & Background Check completed
-* American Board (ABCTE) Certificate in General Science, August 2025
-* American Board (ABCTE) Certificate in Mathematics, December 2025
-* Praxis Subject Exams Passed:
-  - 5165 Mathematics, Score 198, June 2025
-  - 5652 Computer Science, Score 195, May 2025
-  - 5436 General Science, Score 192, June 2025
-
 ## Technology Certifications
 
 #### Current:
 
-* AWS Cloud Practitioner, June 2026
+* AWS Certified Cloud Practitioner, June 2026
+* CompTIA IT Operations Specialist, May 2026
 * CompTIA Network+, May 2026
 * CompTIA A+, April 2026
 * *[In Progress]*	CompTIA Linux+ *[Expected July 2026]*
@@ -58,7 +43,8 @@ Accomplished Supply Chain Operations Manager transitioning to a general Business
 * **Productivity:** Microsoft Office, Word, Excel, Access, PowerPoint, VBA, Power Query
 * **Visualization:** Power BI, Tableau, Probability, Statistics, Modeling & Simulation
 * **Operating Systems:** Windows PowerShell, Debian/Ubuntu Linux, and Raspberry Pi
-* **Hardware & Networking:** Computer upgrade & repair, wired & wireless networking standards
+* **Hardware:** Computer scoping, building, upgrading & repairing
+* **Networking:** Wired & wireless network installation, tuning, troubleshooting
 
 ## Graduate CS/IS/IT-Related Courses
 
@@ -87,6 +73,23 @@ Accomplished Supply Chain Operations Manager transitioning to a general Business
 * Site Leader, CRANE ChemPharma & Energy Corp., Cullman, Alabama, 2008 – 2026
 * Sr. Operations Manager, Woodgrain Distribution, Montevallo, Alabama, 2005 - 2007
 * Director of Materials Management, Community Health Systems, Bullhead City, Arizona, 2004 – 2005
+* Adjunct Faculty Instructor, Mohave Community College, Bullhead City, Arizona, 2004 – 2005
 * Government Contracts Manager, Digital Support Corp., Chantilly, Virginia, 1998 – 2002
 * Division Officer/Lieutenant (O-3), USS John L. Hall & USS Yorktown, United States Navy, 1993 – 1998
 * Nuclear Field Electronics Technician (E-4), United States Navy, Orlando, Florida, 1988 – 1989
+
+## Teaching Experience
+
+* Adjunct Business Faculty, Mohave Community College, Bullhead City, Arizona
+* Also delivered workforce training on OSHA safety topics and lean business practices over most of my career.
+
+## Teaching Credentials
+
+* ALSDE AIM ID: GRH-0116-8614
+* Fingerprinting & Background Check completed
+* American Board (ABCTE) Certificate in Mathematics, December 2025
+* American Board (ABCTE) Certificate in General Science, August 2025
+* Praxis Subject Exams Passed:
+  - 5165 Mathematics, June 2025
+  - 5436 General Science, June 2025
+  - 5652 Computer Science, May 2025
