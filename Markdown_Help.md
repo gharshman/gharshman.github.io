@@ -17,12 +17,12 @@ _____
 
 # Table of Contents (H1)
 Main topics H2, Sub-topics H3
-* [Topic 1](#topic1)
-* [Topic 2](#topic2)
-* [Topic 3](#topic3)
-* &nbsp;&nbsp;&nbsp; [Subtopic 1](#subtopic1)
-* &nbsp;&nbsp;&nbsp; [Subtopic 2](#subtopic2)
-* &nbsp;&nbsp;&nbsp; [Subtopic 3](#subtopic3)
+[Topic 1](#topic1)   
+[Topic 2](#topic2)   
+[Topic 3](#topic3)   
+&nbsp;&nbsp;&nbsp; [Subtopic 1](#subtopic1)     
+&nbsp;&nbsp;&nbsp; [Subtopic 2](#subtopic2)     
+&nbsp;&nbsp;&nbsp; [Subtopic 3](#subtopic3)     
 
 -----
 
@@ -46,130 +46,49 @@ Main topics H2, Sub-topics H3
 -----
 ## Blockquotes
 
-```markdown
->> Blockquotes are very handy in email to emulate reply text.
->> This line is part of the same quote.
-> This is one less quote level
-This line gets incorporated with the quote because it's only a single newline away
+> This is a *block quote*. Bounty belaying pin quarterdeck scuttle grog blossom red ensign hands pillage coxswain heave down. Pressgang long clothes walk the plank pirate driver parley heave down bilge execution dock overhaul. Crack Jennys tea cup scallywag Pirate Round rutters belay bowsprit bring a spring upon her cable Brethren of the Coast clap of thunder Jack Tar. Furl Buccaneer blow the man down take a caulk tender tackle booty lateen sail killick gangway. Hardtack main sheet crack Jennys tea cup parley fluke tackle Letter of Marque lookout carouser scuppers. Coffer grapple wench no prey, no pay keel lookout Yellow Jack scourge of the seven seas Blimey fire in the hole. Splice the main brace heave down hulk provost killick Letter of Marque bilge rat flogging grog blossom Chain Shot. Warp to go on account gaff scallywag line man-of-war hands crack Jennys tea cup weigh anchor Sink me. Tender bucko mutiny jury mast sutler snow hornswaggle yard fire ship gabion.
 
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
-```
-
->> Blockquotes are very handy in email to emulate reply text.
->> This line is part of the same quote.
-> This is one less quote level
-This line gets incorporated with the quote because it's only a single newline away
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+>> This is **also a block quote**. Bounty belaying pin quarterdeck scuttle grog blossom red ensign hands pillage coxswain heave down. Pressgang long clothes walk the plank pirate driver parley heave down bilge execution dock overhaul. Crack Jennys tea cup scallywag Pirate Round rutters belay bowsprit bring a spring upon her cable Brethren of the Coast clap of thunder Jack Tar. Furl Buccaneer blow the man down take a caulk tender tackle booty lateen sail killick gangway. Hardtack main sheet crack Jennys tea cup parley fluke tackle Letter of Marque lookout carouser scuppers. Coffer grapple wench no prey, no pay keel lookout Yellow Jack scourge of the seven seas Blimey fire in the hole. Splice the main brace heave down hulk provost killick Letter of Marque bilge rat flogging grog blossom Chain Shot. Warp to go on account gaff scallywag line man-of-war hands crack Jennys tea cup weigh anchor Sink me. Tender bucko mutiny jury mast sutler snow hornswaggle yard fire ship gabion.
 
 -----
+
 ## Code and Syntax Highlighting
 
-Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).
+Inline `code` has `back-ticks` around it.
 
-```markdown
-Inline `code` has `back-ticks around` it.
-```
-
-Inline `code` has `back-ticks around` it.
-
-
-Blocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.
-
-```markdown
-
-      ```javascript
-      var s = "JavaScript syntax highlighting";
-      alert(s);
-      ```
-
-      ```python
-      s = "Python syntax highlighting"
-      print s
-      ```
-
-      ```
-      No language indicated.
-      let what = 'will it' + B;
-
-      // let's throw in a comment
-      <b>tag</b>.
-      ```
-          // And code blocks that are just indented 4 spaces
-          let me = out > ofHere ? 'bye' : 'never' ;
-          return null;
-          me = 'help I'm trapped after the return line!';
-
-```
+Blocks of code are fenced by lines with three back-ticks <code>```</code>.
 
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+var mystring = "JavaScript syntax highlighting";
+alert(mystring);
 ```
 
 ```python
-s = "Python syntax highlighting"
-print s
+mystring = "Python syntax highlighting"
+print mystring
 ```
 
 ```
 No language indicated.
-let what = 'will it' + B;
-
-// let's throw in a comment
+let message = 'Press ENTER when done';
+// comment
 <b>tag</b>.
 ```
-    // And code blocks that are just indented 4 spaces
-    let me = out > ofHere ? 'bye' : 'never' ;
-    return null;
-    me = 'help I'm trapped after the return line!';
-    
-    
 
-Again, to see what languages are available for highlighting, and how to write those language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).
-
----
-## Emphasis
-
-```markdown
-This is markdown...
-```
-
-
+-----
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses one tilde ~Scratch This~ or two tildes. ~~Scratch this.~~ 
 
-Note: In the GitHub text editor, only two tildes shows the inline preview, but    
-either one or two tildes show the same on output.
-
 -----
 
-
-
------
 ## HTML in Markdown
 
-You can also use raw HTML in your Markdown... sometimes:
+You can sometimes use raw HTML in your Markdown.
 
-```markdown
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-For &lt;img&gt; see [***Images***](#images)  
-```
+### Definitions
 
 <dl>
   <dt>Definition list</dt>
@@ -181,30 +100,13 @@ For &lt;img&gt; see [***Images***](#images)
 
 For &lt;img&gt; see [***Images***](#images)  
 
-### SUP SUB & PRE
-
-```
 SuperScript<sup>You *can* use **markdown** in ***superscript***</sup>
 
 SubScript<sub>You *can* use **markdown** in ***subscript***</sub>
 
-<pre>      The
-       &lt;Pre&gt;
-           Tag
-    Works    similar    to    ```
-But < and > are not escaped around a <word>
-This allows <i>some</i> tags in <b>the pre</b> area<sup>Super!</sup></pre>
-```
-SuperScript<sup>You *can* use **markdown** in ***superscript***</sup>
 
-SubScript<sub>You *can* use **markdown** in ***subscript***</sub>
 
-<pre>      The
-       &lt;Pre&gt;
-           Tag
-    Works    similar    to    ```
-But < and > are not escaped around a <word>
-This allows <i>some</i> tags in <b>the pre</b> area<sup>Super!</sup></pre>
+
 
 ### HTML Tables
 
