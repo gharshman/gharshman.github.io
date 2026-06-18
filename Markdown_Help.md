@@ -4,18 +4,16 @@
 * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/)
 
 # Header 1
------
 ## Header 2
-*****
 ### Header 3
-_____
 #### Header 4
 ##### Header 5
 ###### Header 6
 
 Horizontal line: Three (3) or more: Hyphens, Asterisks, Underscores
-
 -----
+*****
+_____
 
 # Table of Contents (H1)
 Main topics H2, Sub-topics H3
