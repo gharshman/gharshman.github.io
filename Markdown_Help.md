@@ -98,8 +98,6 @@ You can sometimes use raw HTML in your Markdown.
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-For &lt;img&gt; see [***Images***](#images)  
-
 SuperScript<sup>You *can* use **markdown** in ***superscript***</sup>
 
 SubScript<sub>You *can* use **markdown** in ***subscript***</sub>
@@ -121,16 +119,15 @@ SubScript<sub>You *can* use **markdown** in ***subscript***</sub>
 
 ### Details/Summary
 
-<details><summary><b>This is the summary --- click here</b></summary>
-   
-**Hidden text waiting to be revealed.**
-   
-### Surprise!
-   
-You can use markdown **here in details** but not in the **summary**.
-   
-   
-</details>
+<details><summary><b>This is the summary --- click here</b></summary>     
+   **Hidden text waiting to be revealed.**     
+   ### Surprise!     
+   You can use markdown **here in details** but not in the **summary**.     
+</details>     
+
+For &lt;img&gt; see [***Images***](#images)  
+
+
 
 
 
