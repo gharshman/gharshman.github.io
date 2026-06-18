@@ -46,8 +46,8 @@ _____
 - Italics: aka Emphasis, use *asterisks* or _underscores_.     
 - Boldface: aka Strong Emphasis, use **double asterisks** or __double underscores__.     
 - Bold+Italic: aka Combined Emphasis, use **_double asterisks + underscores_**.     
-- Strikethrough: use one tilde ~Scratch This~
-- Strikethrough: use two tildes ~~Scratch this~~      
+- Strikethrough: use one tilde ~Scratch This~ or two tildes ~~Scratch this~~      
+- Underline is reserved for links.
 
 Inline `code` has `back-ticks` around it.
 
