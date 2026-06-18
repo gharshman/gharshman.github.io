@@ -2,6 +2,7 @@
 
 * [John Gruber's original spec](http://daringfireball.net/projects/markdown/)
 * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/)
+* [Myndex's Cheat Sheet](https://gist.github.com/Myndex/5140d6fe98519bb15c503c490e713233)
 
 # Header 1
 ## Header 2
