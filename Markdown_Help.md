@@ -41,7 +41,13 @@ as one paragraphline wrapped together.
 
 _____
 
-## Code and Syntax Highlighting
+## Emphasis & Code/Syntax Highlighting
+
+- Italics: aka Emphasis, use *asterisks* or _underscores_.     
+- Boldface: aka Strong Emphasis, use **double asterisks** or __double underscores__.     
+- Bold+Italic: aka Combined Emphasis, use **_double asterisks + underscores_**.     
+- Strikethrough: use one tilde ~Scratch This~
+- Strikethrough: use two tildes ~~Scratch this~~      
 
 Inline `code` has `back-ticks` around it.
 
@@ -68,13 +74,6 @@ let message = 'Press ENTER when done';
 // comment
 <b>tag</b>.
 ```
-
-_____
-
-Emphasis, aka italics, with *asterisks* or _underscores_.     
-Strong emphasis, aka bold, with **asterisks** or __underscores__.     
-Combined emphasis with **asterisks and _underscores_**.     
-Strikethrough uses one tilde ~Scratch This~ or two tildes. ~~Scratch this.~~      
 
 _____
 
