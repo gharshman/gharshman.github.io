@@ -16,7 +16,7 @@ Horizontal line: Three (3) or more: Hyphens, Asterisks, Underscores
 _____
 
 # Table of Contents (H1)
-Main topics H2, Sub-topics H3
+Main topics H2, Sub-topics H3     
 [Topic 1](#topic1)   
 [Topic 2](#topic2)   
 [Topic 3](#topic3)   
