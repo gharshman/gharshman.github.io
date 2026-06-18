@@ -108,10 +108,10 @@ _____
 
 ### Details/Summary
 
-<details><summary><b>This is the summary --- click here</b></summary>
+<details>
+  <summary><b>Summary line --- click here</b></summary>
 
-  ####Surprise!    
-  Hidden text waiting to be revealed.  You can use markdown here     
+  **Surprise!** -- Hidden text waiting to be revealed.  You can use markdown here     
   in the details section, but **_not_** in the summary above.     
   
 </details>     
