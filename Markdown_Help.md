@@ -4,20 +4,7 @@
 * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/)
 * [Myndex's Cheat Sheet](https://gist.github.com/Myndex/5140d6fe98519bb15c503c490e713233)
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-
------
-
-Horizontal line: Three (3) or more Hyphens
-
------
-
-Thick Horizontal line:  Three (3) or more Asterisks or Underscores
-
-*****
+----------------
 
 # Table of Contents (H1)
 Main topics H2, Sub-topics H3     
@@ -28,7 +15,18 @@ Main topics H2, Sub-topics H3
 &nbsp;&nbsp;&nbsp; [Subtopic 2](#subtopic2)     
 &nbsp;&nbsp;&nbsp; [Subtopic 3](#subtopic3)     
 
-_____
+----------------
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+
+----------------
+
+Thick Horizontal line: Three (3) or more Hyphens, Asterisks, or Underscores
+
+----------------
 
 ## Line Breaks 
 
@@ -40,7 +38,7 @@ The next line will start on the left.
 If you do not put four whitespaces, then the text will be rendered
 as one paragraphline wrapped together.
 
-_____
+----------------
 
 ## Emphasis & Code/Syntax Highlighting
 
@@ -76,7 +74,7 @@ let message = 'Press ENTER when done';
 <b>tag</b>.
 ```
 
-_____
+----------------
 
 ## Tables
 
@@ -95,7 +93,7 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-_____
+----------------
 
 ## Blockquotes
 
@@ -105,7 +103,7 @@ _____
 
 >>> Finally, a **third block quote**. Pirate gibberish: Splice the main brace heave down hulk provost killick Letter of Marque bilge rat flogging grog blossom Chain Shot. Warp to go on account gaff scallywag line man-of-war hands crack Jennys tea cup weigh anchor Sink me. Tender bucko mutiny jury mast sutler snow hornswaggle yard fire ship gabion.
 
-_____
+----------------
 
 ### Details/Summary
 
@@ -117,7 +115,7 @@ _____
   
 </details>     
 
-_____
+----------------
 
 ## Lists
 
@@ -146,7 +144,7 @@ Unordered list:
 - Or minuses
 + Or pluses
 
-_____
+----------------
 
 ## Links
 
@@ -173,7 +171,7 @@ Below links do not appear in final markdown output:
 [2]: http://bridgepca.com
 [3]: https://linktr.ee/Myndex
 
-_____
+----------------
 
 ## Notes
 
@@ -192,7 +190,7 @@ _____
 > [!CAUTION]
 > This is a caution.
 
-_____
+----------------
 
 ## HTML in Markdown
 
@@ -211,7 +209,7 @@ SuperScript<sup>You *can* use **markdown** in ***superscript***</sup>
 
 SubScript<sub>You *can* use **markdown** in ***subscript***</sub>
 
-_____
+----------------
 
 ### HTML Tables
 
@@ -224,7 +222,7 @@ _____
   <tr><td>Also</td><td>Boot</td></tr>
 </table>
 
-_____
+----------------
 
 ## Images
 
@@ -242,4 +240,4 @@ Regular HTML image tags work and allow setting width, height, and classes for us
 
 <img width="200" alt="Descriptive Alt Text" class="recess" src="https://avatars.githubusercontent.com/u/42009457?s=400&u=2dcba5c146315f82f802b8b58e92a4d6b82344b3&v=4">
 
-_____
+----------------
