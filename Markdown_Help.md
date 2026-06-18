@@ -17,12 +17,12 @@ _____
 
 # Table of Contents (H1)
 Main topics H2, Sub-topics H3
-[Topic 1](#topic1)
-[Topic 2](#topic2)
-[Topic 3](#topic3)
-&nbsp;&nbsp;&nbsp; [Subtopic 1](#subtopic1)
-&nbsp;&nbsp;&nbsp; [Subtopic 2](#subtopic2)
-&nbsp;&nbsp;&nbsp; [Subtopic 3](#subtopic3)
+* [Topic 1](#topic1)
+* [Topic 2](#topic2)
+* [Topic 3](#topic3)
+* &nbsp;&nbsp;&nbsp; [Subtopic 1](#subtopic1)
+* &nbsp;&nbsp;&nbsp; [Subtopic 2](#subtopic2)
+* &nbsp;&nbsp;&nbsp; [Subtopic 3](#subtopic3)
 
 -----
 
