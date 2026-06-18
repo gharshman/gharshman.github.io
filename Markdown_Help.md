@@ -1,64 +1,49 @@
-# What's Up With Markdown
-## _GitHub Flavored Markdown Cheat Sheet_
+# GitHub Flavored Markdown
 
-This serves as a quick reference and showcase of GitHub Flavored Markdown. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/). 
+* [John Gruber's original spec](http://daringfireball.net/projects/markdown/)
+* [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/)
 
+# Header 1
+-----
+## Header 2
+*****
+### Header 3
+_____
+#### Header 4
+##### Header 5
+###### Header 6
 
-
-# Table of Contents  
-
-[_NEW!_ Notes](new-notes)    
-[Blockquotes](#blockquotes)   
-[Code and Syntax Highlighting](#code-and-syntax-highlighting)  
-[Emphasis](#emphasis)  
-[Headers](#headers)  
-[Horizontal Rule](#horizontal-rule)  
-[HTML in Markdown](#html-in-markdown)  
-&nbsp;&nbsp;&nbsp; [_SUP SUB & PRE_](#sup-sub-pre)     
-&nbsp;&nbsp;&nbsp; [_HTML Tables_](#html-tables)     
-&nbsp;&nbsp;&nbsp; [_Details/Summary_](#detailssummary)     
-[Images](#images)  
-[Links](#links)  
-[Lists](#lists)  
-[New Line/Line Breaks](#line-breaks)  
-[Tables](#tables)  
+Horizontal line: Three (3) or more: Hyphens, Asterisks, Underscores
 
 -----
 
+# Table of Contents (H1)
+Main topics H2, Sub-topics H3
+[Topic 1](#topic1)
+[Topic 2](#topic2)
+[Topic 3](#topic3)
+&nbsp;&nbsp;&nbsp; [Subtopic 1](#subtopic1)
+&nbsp;&nbsp;&nbsp; [Subtopic 2](#subtopic2)
+&nbsp;&nbsp;&nbsp; [Subtopic 3](#subtopic3)
+
 -----
-## NEW! Notes
 
-```markdown
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-```
+## Notes
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> This is a note.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> This is a tip.
 
 > [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+> This is important.
 
 > [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+> This is a warning.
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+> This is a caution.
 
 -----
 ## Blockquotes
@@ -153,99 +138,22 @@ Again, to see what languages are available for highlighting, and how to write th
 ## Emphasis
 
 ```markdown
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses one tilde ~Scratch This~ or two tildes. ~~Scratch this.~~ 
+This is markdown...
 ```
 
+
+
 Emphasis, aka italics, with *asterisks* or _underscores_.
-
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
 Combined emphasis with **asterisks and _underscores_**.
-
 Strikethrough uses one tilde ~Scratch This~ or two tildes. ~~Scratch this.~~ 
 
 Note: In the GitHub text editor, only two tildes shows the inline preview, but    
 either one or two tildes show the same on output.
 
 -----
-## Headers
 
-```markdown
-For H1 and H2, an underline-ish style:
 
-Alt-H1
-======
-
-Alt-H2
-------
-
-Or the more common 
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-```
-
-For H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
-
-Or the more common 
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
------
-## Horizontal Rule
-
-```markdown
-Three or more...
-
-Hyphens
-
----
-
-Asterisks
-
-***
-
-Underscores
-___
-
-All become a thick horizontal line.
-```
-
-Three or more...
-
-Hyphens
-
----
-
-Asterisks
-
-***
-
-Underscores
-___
-
-All become a thick horizontal line.
 
 -----
 ## HTML in Markdown
