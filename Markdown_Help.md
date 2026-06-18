@@ -137,14 +137,11 @@ Inline-style:
 Reference-style: 
 ![don't forget to do alt text, this is a logo][logo]
 
-And regular HTML img tags work, and allows setting the width or height, and classes for use with pages:
+Regular HTML image tags work and allow setting width, height, and classes for use with pages:
 
-<img width="200" alt="Hi There! Please be descriptive with Alt Text!!" class="recess" src="https://avatars.githubusercontent.com/u/42009457?s=400&u=2dcba5c146315f82f802b8b58e92a4d6b82344b3&v=4">
+<img width="200" alt="Descriptive Alt Text" class="recess" src="https://avatars.githubusercontent.com/u/42009457?s=400&u=2dcba5c146315f82f802b8b58e92a4d6b82344b3&v=4">
 
-[logo]: https://avatars.githubusercontent.com/u/42009457?s=40&v=4 "Descriptive Alt Text Here"
-
-
-
+[logo]: https://avatars.githubusercontent.com/u/42009457?s=40&v=4 "Descriptive Alt Text"
 
 
 ---
