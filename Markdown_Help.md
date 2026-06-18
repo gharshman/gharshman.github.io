@@ -110,11 +110,9 @@ _____
 
 <details><summary><b>This is the summary --- click here</b></summary>
 
-  **Hidden text waiting to be revealed.**
-
-  ### Surprise!
-
-  You can use markdown **here in details** but not in the **summary**.
+  ### Surprise!     
+  **Hidden text waiting to be revealed.**     
+  You can use markdown here in the details section, but **_not_** in the summary above.
   
 </details>     
 
