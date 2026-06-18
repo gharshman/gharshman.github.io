@@ -8,10 +8,15 @@
 ### Header 3
 #### Header 4
 
-Horizontal line: Three (3) or more: Hyphens, Asterisks, Underscores
 -----
+
+Horizontal line: Three (3) or more Hyphens
+
+-----
+
+Thick Horizontal line:  Three (3) or more Asterisks or Underscores
+
 *****
-_____
 
 # Table of Contents (H1)
 Main topics H2, Sub-topics H3     
@@ -22,35 +27,19 @@ Main topics H2, Sub-topics H3
 &nbsp;&nbsp;&nbsp; [Subtopic 2](#subtopic2)     
 &nbsp;&nbsp;&nbsp; [Subtopic 3](#subtopic3)     
 
------
+_____
 
-## Notes
+## Line Breaks 
 
-> [!NOTE]  
-> This is a note.
+To start a *new separate paragraph*, use two newlines.
 
-> [!TIP]
-> This is a tip.
+Or you can end a line with four white spaces befor hitting return.    
+The next line will start on the left.
 
-> [!IMPORTANT]  
-> This is important.
+If you do not put four whitespaces, then the text will be rendered
+as one paragraphline wrapped together.
 
-> [!WARNING]  
-> This is a warning.
-
-> [!CAUTION]
-> This is a caution.
-
------
-## Blockquotes
-
-> This is a *block quote*. Pirate gibberish: Bounty belaying pin quarterdeck scuttle grog blossom red ensign hands pillage coxswain heave down. Pressgang long clothes walk the plank pirate driver parley heave down bilge execution dock overhaul. Crack Jennys tea cup scallywag Pirate Round rutters belay bowsprit bring a spring upon her cable Brethren of the Coast clap of thunder Jack Tar..
-
->> This is **also a block quote**. Pirate gibberish: Furl Buccaneer blow the man down take a caulk tender tackle booty lateen sail killick gangway. Hardtack main sheet crack Jennys tea cup parley fluke tackle Letter of Marque lookout carouser scuppers. Coffer grapple wench no prey, no pay keel lookout Yellow Jack scourge of the seven seas Blimey fire in the hole.
-
->>> Finally, a **third block quote**. Pirate gibberish: Splice the main brace heave down hulk provost killick Letter of Marque bilge rat flogging grog blossom Chain Shot. Warp to go on account gaff scallywag line man-of-war hands crack Jennys tea cup weigh anchor Sink me. Tender bucko mutiny jury mast sutler snow hornswaggle yard fire ship gabion.
-
------
+_____
 
 ## Code and Syntax Highlighting
 
@@ -80,43 +69,43 @@ let message = 'Press ENTER when done';
 <b>tag</b>.
 ```
 
------
+_____
 
 Emphasis, aka italics, with *asterisks* or _underscores_.     
 Strong emphasis, aka bold, with **asterisks** or __underscores__.     
 Combined emphasis with **asterisks and _underscores_**.     
 Strikethrough uses one tilde ~Scratch This~ or two tildes. ~~Scratch this.~~      
 
------
+_____
 
-## HTML in Markdown
+## Tables
 
-You can sometimes use raw HTML in your Markdown.
+Colons can be used to align columns.
 
-### Definitions
+| Tables        | Are           | Cool |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
-SuperScript<sup>You *can* use **markdown** in ***superscript***</sup>
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
-SubScript<sub>You *can* use **markdown** in ***subscript***</sub>
+_____
 
+## Blockquotes
 
-### HTML Tables
+> This is a *block quote*. Pirate gibberish: Bounty belaying pin quarterdeck scuttle grog blossom red ensign hands pillage coxswain heave down. Pressgang long clothes walk the plank pirate driver parley heave down bilge execution dock overhaul. Crack Jennys tea cup scallywag Pirate Round rutters belay bowsprit bring a spring upon her cable Brethren of the Coast clap of thunder Jack Tar..
 
-<table>
-  <tr><th>HTML</th><th>Tables</th><th colspan="2">Are Possible</th></tr>
-  <tr><th colspan="2">Dessert:</th><td>Jello</td><td>Whirrled</td></tr>
-  <tr><td colspan="4" align="center">And more flexible</td></tr>
-  <tr><td colspan="4" align="center">since you can use colspan</td></tr>
-  <tr><td>And</td><td rowspan="2" colspan="2" align="center">rowspan</td><td>To</td></tr>
-  <tr><td>Also</td><td>Boot</td></tr>
-</table>
+>> This is **also a block quote**. Pirate gibberish: Furl Buccaneer blow the man down take a caulk tender tackle booty lateen sail killick gangway. Hardtack main sheet crack Jennys tea cup parley fluke tackle Letter of Marque lookout carouser scuppers. Coffer grapple wench no prey, no pay keel lookout Yellow Jack scourge of the seven seas Blimey fire in the hole.
+
+>>> Finally, a **third block quote**. Pirate gibberish: Splice the main brace heave down hulk provost killick Letter of Marque bilge rat flogging grog blossom Chain Shot. Warp to go on account gaff scallywag line man-of-war hands crack Jennys tea cup weigh anchor Sink me. Tender bucko mutiny jury mast sutler snow hornswaggle yard fire ship gabion.
+
+_____
 
 ### Details/Summary
 
@@ -130,50 +119,7 @@ SubScript<sub>You *can* use **markdown** in ***subscript***</sub>
   
 </details>     
 
------
-## Images
-
-Here's a logo (hover to see the title text):
-
-Inline-style: 
-![don't forget to do alt text](https://avatars.githubusercontent.com/u/42009457?s=40&v=4 "Descriptive Alt Text Here")
-
-Reference-style: 
-![don't forget to do alt text, this is a logo][logo]
-[logo]: https://avatars.githubusercontent.com/u/42009457?s=40&v=4 "Descriptive Alt Text"
-
-Regular HTML image tags work and allow setting width, height, and classes for use with pages:
-
-<img width="200" alt="Descriptive Alt Text" class="recess" src="https://avatars.githubusercontent.com/u/42009457?s=400&u=2dcba5c146315f82f802b8b58e92a4d6b82344b3&v=4">
-
----
-
-## Links
-
-There are several ways to create links.
-
-[Inline-style link](https://www.google.com)
-
-[Reference-style link][case-insensitive reference]
-
-[You can use numbers][1] for reference-style link definitions
-
-Or leave it empty and use the [link text itself][]
-
-This is useful when you are doing lots of cites [[2],[3]].
-
-HTML links also work, if you need a "class" in your link: 
-<a href="#Links" class="dismissed">HTML link</a>
-
-Below links do not appear in final markdown output:
-
-[case-insensitive reference]: https://git.myndex.com
-[1]: http://apcacontrast.com
-[link text itself]: http://tangledweb.xyz
-[2]: http://bridgepca.com
-[3]: https://linktr.ee/Myndex
-
------
+_____
 
 ## Lists
 
@@ -202,35 +148,100 @@ Unordered list:
 - Or minuses
 + Or pluses
 
------
+_____
 
-## Line Breaks 
+## Links
 
-To start a *new separate paragraph*, use two newlines.
+There are several ways to create links.
 
-Or you can end a line with four white spaces befor hitting return.    
-The next line will start on the left.
+[Inline-style link](https://www.google.com)
 
-If you do not put four whitespaces, then the text will be rendered
-as one paragraphline wrapped together.
+[Reference-style link][case-insensitive reference]
 
------
+[You can use numbers][1] for reference-style link definitions
 
-## Tables
+Or leave it empty and use the [link text itself][]
 
-Colons can be used to align columns.
+This is useful when you are doing lots of cites [[2],[3]].
 
-| Tables        | Are           | Cool |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+HTML links also work, if you need a "class" in your link: 
+<a href="#Links" class="dismissed">HTML link</a>
 
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
+Below links do not appear in final markdown output:
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+[case-insensitive reference]: https://git.myndex.com
+[1]: http://apcacontrast.com
+[link text itself]: http://tangledweb.xyz
+[2]: http://bridgepca.com
+[3]: https://linktr.ee/Myndex
 
------
+_____
+
+## Notes
+
+> [!NOTE]  
+> This is a note.
+
+> [!TIP]
+> This is a tip.
+
+> [!IMPORTANT]  
+> This is important.
+
+> [!WARNING]  
+> This is a warning.
+
+> [!CAUTION]
+> This is a caution.
+
+_____
+
+## HTML in Markdown
+
+You can sometimes use raw HTML in your Markdown.
+
+### Definitions
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+SuperScript<sup>You *can* use **markdown** in ***superscript***</sup>
+
+SubScript<sub>You *can* use **markdown** in ***subscript***</sub>
+
+_____
+
+### HTML Tables
+
+<table>
+  <tr><th>HTML</th><th>Tables</th><th colspan="2">Are Possible</th></tr>
+  <tr><th colspan="2">Dessert:</th><td>Jello</td><td>Whirrled</td></tr>
+  <tr><td colspan="4" align="center">And more flexible</td></tr>
+  <tr><td colspan="4" align="center">since you can use colspan</td></tr>
+  <tr><td>And</td><td rowspan="2" colspan="2" align="center">rowspan</td><td>To</td></tr>
+  <tr><td>Also</td><td>Boot</td></tr>
+</table>
+
+_____
+
+## Images
+
+Here's a logo (hover to see the title text):
+
+Inline-style: 
+![don't forget to do alt text](https://avatars.githubusercontent.com/u/42009457?s=40&v=4 "Descriptive Alt Text Here")
+
+Reference-style: 
+![don't forget to do alt text, this is a logo][logo]
+[logo]: https://avatars.githubusercontent.com/u/42009457?s=40&v=4 "Descriptive Alt Text"
+
+Regular HTML image tags work and allow setting width, height, and classes for use with pages:
+
+<img width="200" alt="Descriptive Alt Text" class="recess" src="https://avatars.githubusercontent.com/u/42009457?s=400&u=2dcba5c146315f82f802b8b58e92a4d6b82344b3&v=4">
+
+_____
+
