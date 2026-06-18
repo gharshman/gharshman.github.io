@@ -110,54 +110,24 @@ SubScript<sub>You *can* use **markdown** in ***subscript***</sub>
 
 ### HTML Tables
 
-```markdown
- <table>
+<table>
   <tr><th>HTML</th><th>Tables</th><th colspan="2">Are Possible</th></tr>
   <tr><th colspan="2">Dessert:</th><td>Jello</td><td>Whirrled</td></tr>
   <tr><td colspan="4" align="center">And more flexible</td></tr>
   <tr><td colspan="4" align="center">since you can use colspan</td></tr>
   <tr><td>And</td><td rowspan="2" colspan="2" align="center">rowspan</td><td>To</td></tr>
   <tr><td>Also</td><td>Boot</td></tr>
- </table>
-```
-
- <table>
-  <tr><th>HTML</th><th>Tables</th><th colspan="2">Are Possible</th></tr>
-  <tr><th colspan="2">Dessert:</th><td>Jello</td><td>Whirrled</td></tr>
-  <tr><td colspan="4" align="center">And more flexible</td></tr>
-  <tr><td colspan="4" align="center">since you can use colspan</td></tr>
-  <tr><td>And</td><td rowspan="2" colspan="2" align="center">rowspan</td><td>To</td></tr>
-  <tr><td>Also</td><td>Boot</td></tr>
- </table>
+</table>
 
 ### Details/Summary
-```markdown
-But perhaps the most useful add is that of details/summary
 
-<details><summary><b>Click here</b> for a surprise!</summary>
-
+<details><summary><b>This is the summary --- click here</b></summary>
    
-**I'm hidden till I'm not, then**
+**Hidden text waiting to be revealed.**
    
-### Sir, Prize!
+### Surprise!
    
-I can use markdown **here in details**, but no markdown in the **summary**.
-   
-   
-</details>
-
-```
-
-But perhaps the most useful add is that of details/summary
-
-<details><summary><b>Click here</b> for a surprise!</summary>
-
-   
-**I'm hidden till I'm not, then**
-   
-### Sir, Prize!
-   
-I can use markdown **here in details**, but no markdown in the **summary**.
+You can use markdown **here in details** but not in the **summary**.
    
    
 </details>
