@@ -37,12 +37,12 @@ Accomplished Supply Chain Operations Manager transitioning to a general Business
 ## Technology Skills
 
 * **Programming:** Python, R, C, C++, Java, SQL, ARM Assembly
-* **Web Development:** Apache, HTML, CSS, PHP, Javascript, Typescript, Node.js
-* **Database:** MySQL/MariaDB, PostgreSQL, MS Access, MS SQL Server
-* **IDE:** VS Code, CodeBlocks, PyCharm, Netbeans, CLion, IntelliJ
-* **Productivity:** Microsoft Office, Word, Excel, Access, PowerPoint, VBA, Power Query
+* **Web Development:**  Node.js, Express, Javascript, REST, Apache, HTML, CSS, PHP, SOAP
+* **Database:** MySQL/MariaDB, PostgreSQL, SQLite, MS SQL Server, MS Access
+* **IDE:** VSCode, CLion, PyCharm, RStudio, WebStorm, IntelliJ, Netbeans, Eclipse, CodeBlocks
+* **Productivity:** Microsoft Office, Word, Excel, PowerPoint, VBA, Power Query
 * **Visualization:** Power BI, Tableau, Probability, Statistics, Modeling & Simulation
-* **Operating Systems:** Windows PowerShell, Debian/Ubuntu Linux, and Raspberry Pi
+* **Operating Systems:** Windows PowerShell, Debian-based & Red Hat-based Linux, Raspberry Pi
 * **Hardware:** Computer scoping, building, upgrading & repairing
 * **Networking:** Wired & wireless network installation, tuning, troubleshooting
 
