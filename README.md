@@ -42,7 +42,7 @@ Accomplished Supply Chain Operations Manager transitioning to a general Business
 * **IDE:** VSCode, CLion, PyCharm, RStudio, WebStorm, IntelliJ, Netbeans, Eclipse, CodeBlocks
 * **Productivity:** Microsoft Office, Word, Excel, PowerPoint, VBA, Power Query
 * **Visualization:** Power BI, Tableau, Probability, Statistics, Modeling & Simulation
-* **Operating Systems:** Windows PowerShell, Debian-based & Red Hat-based Linux, Raspberry Pi
+* **Operating Systems:** Windows PowerShell, Debian-based & Red Hat-based Linux, Raspberry Pi, AS/400
 * **Hardware:** Computer scoping, building, upgrading & repairing
 * **Networking:** Wired & wireless network installation, tuning, troubleshooting
 
