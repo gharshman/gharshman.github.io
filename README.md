@@ -21,11 +21,17 @@ Accomplished Supply Chain Operations Manager transitioning to a general Business
 
 #### Current:
 
+* CompTIA Linux+, June 2026
 * AWS Certified Cloud Practitioner, June 2026
-* CompTIA IT Operations Specialist, May 2026
 * CompTIA Network+, May 2026
 * CompTIA A+, April 2026
-* *[In Progress]*	CompTIA Linux+ *[Expected July 2026]*
+
+#### Stackables:
+
+* CompTIA Linux Networking Professional, June 2026
+* CompTIA Systems Support Specialist, June 2026
+* CompTIA IT Operations Specialist, May 2026
+
 
 #### Legacy:
 
