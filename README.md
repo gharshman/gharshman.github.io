@@ -67,25 +67,10 @@ Cullman, Alabama  |  https://www.linkedin.com/in/glenn-harshman-965888409/
 #### In Progress (6 hours):
 
 * IS 501, Cybersecurity Principles (3)
+
+#### Planned for Upcoming Semesters...
+
+* IS 550, Cybersecurity Management (3)
+* IS 577, Network Security (3)
 * IS 640, Data Management & Data Mining (3)
-
-## Middle- and High-School Teaching Qualifications
-
-* ALSDE AIM ID: GRH-0116-8614
-* Fingerprinting & Background Check completed
-* American Board (ABCTE) Certificate in Mathematics, December 2025
-* American Board (ABCTE) Certificate in General Science, August 2025
-* Praxis Subject Exams Passed:
-  - 5165 Mathematics, June 2025
-  - 5436 General Science, June 2025
-  - 5652 Computer Science, May 2025
-
-## Industry Experience
-
-* Site Leader, CRANE ChemPharma & Energy Corp., Cullman, Alabama, 2008 – 2026
-* Sr. Operations Manager, Woodgrain Distribution, Montevallo, Alabama, 2005 - 2007
-* Director of Materials Management, Community Health Systems, Bullhead City, Arizona, 2004 – 2005
-* Adjunct Faculty Instructor, Mohave Community College, Bullhead City, Arizona, 2004 – 2005
-* Government Contracts Manager, Digital Support Corp., Chantilly, Virginia, 1998 – 2002
-* Division Officer/Lieutenant (O-3), USS John L. Hall & USS Yorktown, United States Navy, 1993 – 1998
-* Nuclear Field Electronics Technician (E-4), United States Navy, Orlando, Florida, 1988 – 1989
+* IS 650, Ethical Hacking (3)
